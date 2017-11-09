@@ -8,6 +8,7 @@ services:
       context: ./
       dockerfile: app.dockerfile
     working_dir: /var/www
+    container_name: laravel_app
     volumes:
       - ./my-site:/var/www
     environment:
