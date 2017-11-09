@@ -1,0 +1,12 @@
+/my-site/node_modules
+/my-site/public/hot
+/my-site/public/storage
+/my-site/storage/*.key
+/my-site/vendor
+/my-site/.idea
+/my-site/.vagrant
+/my-site/Homestead.json
+/my-site/Homestead.yaml
+/my-site/npm-debug.log
+/my-site/yarn-error.log
+/my-site/.env
